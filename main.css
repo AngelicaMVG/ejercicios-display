@@ -1,11 +1,11 @@
 .bloques{
-  display: inline;
+  display: inline-block;
   padding: 5px;
+  width: 300px;
+  height: 100px;
   margin-left: 10px;
   font-size: 30px;
   text-align: center;
-}
-.bloque1 , .bloque3{
   background: #f7e522;
 }
 
