@@ -1,0 +1,13 @@
+.bloques{
+  display: block;
+  height: 100px;
+  font-size: 30px;
+  text-align: center;
+}
+.bloque1 , .bloque3{
+  background: #f7e522;
+}
+
+.bloque2 {
+  background: #ef0758;
+}
